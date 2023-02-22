@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surbhimathur01
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning new aspects and building a project on machine learning.
+- 👋 Hi, I’m Surbhi Mathur, a 3rd year Computer Science student
+- 👀 I am currently working on polishing my skills in data structures and algorithms.
+- 🌱 I have industrial level skills in Machine Learning and Web Development.
 - 📫 How to reach me on my linkedin: https://www.linkedin.com/in/surbhi-mathur-67b0691bb/
