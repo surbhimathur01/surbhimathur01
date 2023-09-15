@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Surbhi Mathur, a 3rd year Computer Science student
+- 👋 Hi, I’m Surbhi Mathur, a final year Computer Science student
 - 👀 I am currently working on polishing my skills in data structures and algorithms.
-- 🌱 I have industrial level skills in Machine Learning and Web Development.
+- 🌱 I have industrial-level skills in Machine Learning and Web Development.
 - ✍ I have confident skills in creative content creation and writing.
-- 📫 How to reach me on my linkedin: https://www.linkedin.com/in/surbhi-mathur-67b0691bb/
+- 📫 How to reach me on my LinkedIn: https://www.linkedin.com/in/surbhi-mathur-67b0691bb/
