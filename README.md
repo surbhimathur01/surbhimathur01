@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Surbhi Mathur, a final year Computer Science student
+- 👋 Hi, I’m Surbhi Mathur, Computer Science graduate (2024)
 - 👀 I am currently working on polishing my skills in data structures and algorithms.
 - 🌱 I have industrial-level skills in Machine Learning and Web Development.
 - ✍ I have confident skills in creative content creation and writing.
